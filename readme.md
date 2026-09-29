@@ -2,6 +2,17 @@
 
 A simple daily checklist designed to balance **studies, career development, personal growth, creativity, health, and relaxation**. This routine has no fixed timings, so activities can be completed in a flexible order.
 
+<p align="center">
+  <img
+    src="website.png"
+    alt="My daily routine"
+    width="220"
+    style="border: 2px solid #d8dee8;
+           border-radius: 12px;
+           padding: 5px;"
+  />
+</p>
+
 ## 🎯 Daily Goals
 
 * Stay consistent with studying and academic progress.
@@ -20,7 +31,7 @@ A simple daily checklist designed to balance **studies, career development, pers
 | ☐    | 🍽️ Meals, Getting Ready & Personal Care      |     1 hour |
 | ☐    | 🌿 Free Time / Buffer                         | 20 minutes |
 
-**Total: 17 hours **
+**Total: 17 hours**
 **Remaining: 7 hours**
 
 ## 📌 Activity Examples
